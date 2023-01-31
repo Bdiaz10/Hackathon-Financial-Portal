@@ -1,6 +1,6 @@
 This app was selected as the #1 winning app of the MecSimCalc Hackathon 4.0. It was designed in Python using the MecSimCalc platform and editor.
 
-Beware, you cannot run this app on your own editor because the code is tweaked specifically to run on MecSimCalc's python editor.
+Beware, you cannot run this app on your own editor because the code is written specifically to run on MecSimCalc's python editor.
 
 This calculator is designed to allow you to view your monthly expenses visually, set savings goals, and understand the power of compound interest. This is an interactive program that requires a series of user inputs.
 
